@@ -1,0 +1,29 @@
+{
+  "name": "netocode-blog",
+  "version": "1.0.0",
+  "description": "blog portfólio test",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "npm run dev"
+  },
+  "keywords": [
+    "keywords:",
+    "blog",
+    "portfólio",
+    "test",
+    "desenvolvimento-web",
+    "frontend",
+    "projeto-pessoal",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Node.js"
+  ],
+  "author": "NetoCode",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0"
+  }
+}
